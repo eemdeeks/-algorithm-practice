@@ -8,7 +8,7 @@
 
 ### 홈페이지 링크
 
-[AlgorithmLABS](https://lms.algorithmjobs.io, "algorithmjobs link")
+[AlgorithmLABS](https://lms.algorithmjobs.io/, "algorithmjobs link")
 
 ***
 
