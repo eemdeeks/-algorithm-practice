@@ -1,2 +1,4 @@
 # algorithm-practice
-## 꾸준히! 확실히!
+알고리즘 공부
+- python3
+- jupyter notebook
